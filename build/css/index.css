@@ -416,6 +416,17 @@
 .register form .form-line input::-webkit-input-placeholder {
   color: #fff;
 }
+.register form .form-line input.ng-invalid + span {
+  position: absolute;
+  color: #fff;
+  right: 0;
+  height: 100%;
+  font-size: 12px;
+  color: red;
+}
+.register form .form-line input.ng-invalid + span p {
+  margin: 0;
+}
 .register form .message-wrap {
   margin-top: 1.06666667rem;
   width: 8rem;
@@ -442,6 +453,10 @@
   border: 1px solid #12d5b5;
   padding: 0 5px;
   margin-top: 20px;
+}
+.register form .message-wrap .message.disabled {
+  color: #d4d4d4;
+  border-color: #d4d4d4;
 }
 .register form button {
   width: 8rem;
