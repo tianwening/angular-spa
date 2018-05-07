@@ -2,100 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c39b8184-1c79-492e-82bb-78af482817c8" name="默认的" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/image/account.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/image/background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/image/company-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/image/company-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/image/company-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/image/document.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/image/head.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/image/lock.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/image/my.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/image/search.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/image/star-active.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/image/star.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-ui-router/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-ui-router/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-ui-router/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-ui-router/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-ui-router/release/angular-ui-router.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-ui-router/release/angular-ui-router.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/script/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-ui-router/src/common.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/view/company.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/script/controller/companyCtrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/view/template/companyInfo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/script/directive/companyInfo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/style/template/companyInfo.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/script/service/cookie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/script/config/dict.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/view/favorite.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/script/controller/favorite.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/script/filter/filterByObj.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/view/template/foot.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/script/directive/foot.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/style/template/foot.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulpfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/view/template/head.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/script/directive/head.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/style/template/head.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/view/template/headBar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/script/directive/headBar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/style/index.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/view/login.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/script/controller/login.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/style/login.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/view/main.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/script/controller/mainCtrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/view/me.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/style/me.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/script/controller/meCtrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-ui-router/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/view/position.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/style/position.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/view/template/positionClass.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/script/directive/positionClass.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/style/template/positionClass.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/script/controller/positionCtrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/view/template/positionInfo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/script/directive/positionInfo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/style/template/positionInfo.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/view/template/positionList.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/script/directive/positionList.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/style/template/positionList.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/view/post.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/style/post.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/script/controller/postCtrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/style/properity.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/view/register.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/style/register.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/script/controller/registerCtrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-ui-router/src/resolve.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/script/config/router.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/view/search.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/script/controller/search.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/style/search.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/view/template/sheet.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/script/directive/sheet.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/style/template/sheet.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-ui-router/src/state.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-ui-router/src/stateDirectives.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-ui-router/src/stateFilters.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/view/template/tab.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/script/directive/tab.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/style/template/tab.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-ui-router/src/templateFactory.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-ui-router/src/urlMatcherFactory.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-ui-router/src/urlRouter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/script/config/validation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/style/variable.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-ui-router/src/view.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-ui-router/src/viewDirective.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-ui-router/src/viewScroll.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/webapp_node_modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/script/config/http.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/script/service/cookie.js" afterPath="$PROJECT_DIR$/src/script/service/cookie.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/view/favorite.html" afterPath="$PROJECT_DIR$/build/view/favorite.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/view/favorite.html" afterPath="$PROJECT_DIR$/dist/view/favorite.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/favorite.html" afterPath="$PROJECT_DIR$/src/view/favorite.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/script/controller/favorite.js" afterPath="$PROJECT_DIR$/src/script/controller/favorite.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/view/template/head.html" afterPath="$PROJECT_DIR$/build/view/template/head.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/view/template/head.html" afterPath="$PROJECT_DIR$/dist/view/template/head.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/template/head.html" afterPath="$PROJECT_DIR$/src/view/template/head.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/script/directive/head.js" afterPath="$PROJECT_DIR$/src/script/directive/head.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/css/index.css" afterPath="$PROJECT_DIR$/build/css/index.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/css/index.css" afterPath="$PROJECT_DIR$/dist/css/index.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/index.js" afterPath="$PROJECT_DIR$/build/js/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/js/index.js" afterPath="$PROJECT_DIR$/dist/js/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/view/login.html" afterPath="$PROJECT_DIR$/build/view/login.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/view/login.html" afterPath="$PROJECT_DIR$/dist/view/login.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/login.html" afterPath="$PROJECT_DIR$/src/view/login.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/script/controller/login.js" afterPath="$PROJECT_DIR$/src/script/controller/login.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/style/login.less" afterPath="$PROJECT_DIR$/src/style/login.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/view/me.html" afterPath="$PROJECT_DIR$/build/view/me.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/view/me.html" afterPath="$PROJECT_DIR$/dist/view/me.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/me.html" afterPath="$PROJECT_DIR$/src/view/me.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/style/me.less" afterPath="$PROJECT_DIR$/src/style/me.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/script/controller/meCtrl.js" afterPath="$PROJECT_DIR$/src/script/controller/meCtrl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/view/position.html" afterPath="$PROJECT_DIR$/build/view/position.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/view/position.html" afterPath="$PROJECT_DIR$/dist/view/position.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/position.html" afterPath="$PROJECT_DIR$/src/view/position.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/script/controller/positionCtrl.js" afterPath="$PROJECT_DIR$/src/script/controller/positionCtrl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/view/template/positionInfo.html" afterPath="$PROJECT_DIR$/build/view/template/positionInfo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/view/template/positionInfo.html" afterPath="$PROJECT_DIR$/dist/view/template/positionInfo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/template/positionInfo.html" afterPath="$PROJECT_DIR$/src/view/template/positionInfo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/script/directive/positionInfo.js" afterPath="$PROJECT_DIR$/src/script/directive/positionInfo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/view/template/positionList.html" afterPath="$PROJECT_DIR$/build/view/template/positionList.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/view/template/positionList.html" afterPath="$PROJECT_DIR$/dist/view/template/positionList.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/template/positionList.html" afterPath="$PROJECT_DIR$/src/view/template/positionList.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/script/directive/positionList.js" afterPath="$PROJECT_DIR$/src/script/directive/positionList.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/style/template/positionList.less" afterPath="$PROJECT_DIR$/src/style/template/positionList.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/view/post.html" afterPath="$PROJECT_DIR$/build/view/post.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/view/post.html" afterPath="$PROJECT_DIR$/dist/view/post.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/post.html" afterPath="$PROJECT_DIR$/src/view/post.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/script/controller/postCtrl.js" afterPath="$PROJECT_DIR$/src/script/controller/postCtrl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/style/properity.less" afterPath="$PROJECT_DIR$/src/style/properity.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/view/register.html" afterPath="$PROJECT_DIR$/build/view/register.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/view/register.html" afterPath="$PROJECT_DIR$/dist/view/register.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/register.html" afterPath="$PROJECT_DIR$/src/view/register.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/style/register.less" afterPath="$PROJECT_DIR$/src/style/register.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/script/controller/registerCtrl.js" afterPath="$PROJECT_DIR$/src/script/controller/registerCtrl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/script/config/validation.js" afterPath="$PROJECT_DIR$/src/script/config/validation.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="webapp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -116,21 +71,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="filterByObj.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/script/filter/filterByObj.js">
+      <file leaf-file-name="position.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/view/position.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+            <state vertical-scroll-proportion="-2.3076923">
+              <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="search.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/script/controller/search.js">
+      <file leaf-file-name="positionInfo.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/view/template/positionInfo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="45" column="36" selection-start-line="45" selection-start-column="36" selection-end-line="45" selection-end-column="36" />
+            <state vertical-scroll-proportion="-3.8461537">
+              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -139,8 +94,8 @@
       <file leaf-file-name="positionCtrl.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/script/controller/positionCtrl.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5698324">
-              <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+            <state vertical-scroll-proportion="0.6275395">
+              <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -163,57 +118,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/style/template/companyInfo.less" />
-        <option value="$PROJECT_DIR$/src/style/template/positionList.less" />
-        <option value="$PROJECT_DIR$/src/script/controller/mainCtrl.js" />
-        <option value="$PROJECT_DIR$/src/script/directive/positionInfo.js" />
-        <option value="$PROJECT_DIR$/src/view/template/positionInfo.html" />
-        <option value="$PROJECT_DIR$/src/script/directive/companyInfo.js" />
-        <option value="$PROJECT_DIR$/src/view/template/companyInfo.html" />
-        <option value="$PROJECT_DIR$/src/view/position.html" />
-        <option value="$PROJECT_DIR$/src/script/controller/companyCtrl.js" />
-        <option value="$PROJECT_DIR$/src/view/company.html" />
-        <option value="$PROJECT_DIR$/src/data/company.json" />
         <option value="$PROJECT_DIR$/src/view/template/positionClass.html" />
-        <option value="$PROJECT_DIR$/src/script/directive/positionClass.js" />
-        <option value="$PROJECT_DIR$/src/script/service/cookie.js" />
         <option value="$PROJECT_DIR$/src/view/template/search.html" />
-        <option value="$PROJECT_DIR$/src/style/properity.less" />
         <option value="$PROJECT_DIR$/src/style/template/sheet.less" />
         <option value="$PROJECT_DIR$/src/script/config/dict.js" />
         <option value="$PROJECT_DIR$/src/script/directive/sheet.js" />
         <option value="$PROJECT_DIR$/src/style/search.less" />
-        <option value="$PROJECT_DIR$/src/script/directive/tab.js" />
         <option value="$PROJECT_DIR$/src/view/template/tab.html" />
         <option value="$PROJECT_DIR$/src/view/template/sheet.html" />
         <option value="$PROJECT_DIR$/src/script/filter/filterByObj.js" />
-        <option value="$PROJECT_DIR$/src/view/template/positionList.html" />
         <option value="$PROJECT_DIR$/src/view/search.html" />
         <option value="$PROJECT_DIR$/src/script/config/router.js" />
-        <option value="$PROJECT_DIR$/src/script/controller/login.js" />
         <option value="$PROJECT_DIR$/src/script/controller/register.js" />
         <option value="$PROJECT_DIR$/src/script/controller/me.js" />
         <option value="$PROJECT_DIR$/src/script/controller/post.js" />
-        <option value="$PROJECT_DIR$/src/script/controller/favorite.js" />
         <option value="$PROJECT_DIR$/src/view/template/foot.html" />
-        <option value="$PROJECT_DIR$/src/view/login.html" />
-        <option value="$PROJECT_DIR$/src/style/login.less" />
-        <option value="$PROJECT_DIR$/src/view/register.html" />
-        <option value="$PROJECT_DIR$/src/style/register.less" />
         <option value="$PROJECT_DIR$/src/style/template/foot.less" />
         <option value="$PROJECT_DIR$/src/style/variable.less" />
-        <option value="$PROJECT_DIR$/src/style/me.less" />
-        <option value="$PROJECT_DIR$/src/view/me.html" />
-        <option value="$PROJECT_DIR$/src/view/favorite.html" />
         <option value="$PROJECT_DIR$/src/style/index.less" />
-        <option value="$PROJECT_DIR$/src/script/controller/postCtrl.js" />
-        <option value="$PROJECT_DIR$/src/view/post.html" />
         <option value="$PROJECT_DIR$/src/script/app.js" />
-        <option value="$PROJECT_DIR$/src/script/config/validation.js" />
         <option value="$PROJECT_DIR$/src/index.html" />
-        <option value="$PROJECT_DIR$/src/script/directive/positionList.js" />
         <option value="$PROJECT_DIR$/src/script/controller/search.js" />
+        <option value="$PROJECT_DIR$/src/style/register.less" />
+        <option value="$PROJECT_DIR$/src/script/config/http.js" />
+        <option value="$PROJECT_DIR$/src/script/controller/registerCtrl.js" />
+        <option value="$PROJECT_DIR$/src/style/login.less" />
+        <option value="$PROJECT_DIR$/src/view/login.html" />
+        <option value="$PROJECT_DIR$/src/view/register.html" />
+        <option value="$PROJECT_DIR$/src/script/config/validation.js" />
+        <option value="$PROJECT_DIR$/src/script/service/cookie.js" />
+        <option value="$PROJECT_DIR$/src/script/controller/login.js" />
+        <option value="$PROJECT_DIR$/src/view/me.html" />
+        <option value="$PROJECT_DIR$/src/script/controller/meCtrl.js" />
+        <option value="$PROJECT_DIR$/src/style/me.less" />
+        <option value="$PROJECT_DIR$/src/view/post.html" />
+        <option value="$PROJECT_DIR$/src/script/directive/tab.js" />
+        <option value="$PROJECT_DIR$/src/script/controller/postCtrl.js" />
+        <option value="$PROJECT_DIR$/src/script/controller/favorite.js" />
+        <option value="$PROJECT_DIR$/src/style/template/positionList.less" />
+        <option value="$PROJECT_DIR$/src/script/directive/positionList.js" />
+        <option value="$PROJECT_DIR$/src/view/favorite.html" />
+        <option value="$PROJECT_DIR$/src/script/directive/head.js" />
+        <option value="$PROJECT_DIR$/src/view/template/positionList.html" />
+        <option value="$PROJECT_DIR$/src/style/properity.less" />
+        <option value="$PROJECT_DIR$/src/script/directive/positionClass.js" />
+        <option value="$PROJECT_DIR$/src/view/template/head.html" />
+        <option value="$PROJECT_DIR$/src/script/directive/positionInfo.js" />
+        <option value="$PROJECT_DIR$/build/view/template/positionInfo.html" />
+        <option value="$PROJECT_DIR$/src/view/position.html" />
         <option value="$PROJECT_DIR$/src/script/controller/positionCtrl.js" />
+        <option value="$PROJECT_DIR$/src/data/position.json" />
+        <option value="$PROJECT_DIR$/src/view/template/positionInfo.html" />
       </list>
     </option>
   </component>
@@ -230,10 +185,10 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="628" />
+    <option name="y" value="87" />
+    <option name="width" value="1279" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -264,6 +219,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -282,10 +239,80 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="view" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="script" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="script" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -297,6 +324,7 @@
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="SearchEverywhereHistoryKey" value="positioninfo&#9;FILE&#9;file://D:/www/webapp/src/view/template/positionInfo.html&#10;position.json&#9;FILE&#9;file://D:/www/webapp/src/data/position.json&#10;handl&#9;FILE&#9;file://D:/www/webapp/build/data/handle.json&#10;positioni&#9;FILE&#9;file://D:/www/webapp/src/script/directive/positionInfo.js" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -365,11 +393,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="false" />
+    <frame x="628" y="87" width="1279" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16754478" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.0" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -402,7 +430,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3621795" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.053968254" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -428,112 +456,176 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/style/register.less">
+    <entry file="file://$PROJECT_DIR$/src/script/filter/filterByObj.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.6285048">
-          <caret line="75" column="25" selection-start-line="75" selection-start-column="25" selection-end-line="75" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.23463687">
+          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/style/template/foot.less">
+    <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2453271">
-          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        <state vertical-scroll-proportion="0.35419127">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/style/properity.less">
+    <entry file="file://$PROJECT_DIR$/src/script/config/http.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14527845">
-          <caret line="4" column="14" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="14" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/style/variable.less">
+    <entry file="file://$PROJECT_DIR$/src/script/config/dict.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.076923">
-          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.13544019">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/style/me.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.076923">
-          <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/image/my.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/image/head.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/favorite.html">
+    <entry file="file://$PROJECT_DIR$/src/style/register.less">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.5384616">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/style/post.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.7692308">
-          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/style/index.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.3846154">
-          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/script/config/router.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/script/controller/meCtrl.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16759777">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/me.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.3076923">
-          <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/script/directive/tab.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.7692308">
-          <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/script/config/validation.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21251476">
+          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/style/login.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21251476">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24793388">
+          <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/script/service/cookie.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23702031">
+          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/script/controller/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23702031">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/code.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/login.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.07083825">
+          <caret line="2" column="16" selection-start-line="1" selection-start-column="2" selection-end-line="3" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/style/me.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.035419125">
+          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/me.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.0">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/myPost.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.13341205">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/script/controller/meCtrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.06772009">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/style/post.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.07083825">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10625738">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/script/directive/tab.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/script/controller/postCtrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16930023">
+          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/template/tab.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.07083825">
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
           <folding />
         </state>
       </provider>
@@ -541,103 +633,95 @@
     <entry file="file://$PROJECT_DIR$/src/script/controller/favorite.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/script/directive/positionList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="59" selection-start-line="5" selection-start-column="59" selection-end-line="5" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/style/variable.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.076923">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/style/properity.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14687882">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/style/search.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/template/positionList.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31877214">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/view/template/companyInfo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.14018692">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/template/foot.html">
+    <entry file="file://$PROJECT_DIR$/src/view/favorite.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.0769231">
-          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.07009346">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/template/head.html">
+    <entry file="file://$PROJECT_DIR$/src/style/template/positionList.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.32359812">
+          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/template/headBar.html">
+    <entry file="file://$PROJECT_DIR$/src/script/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.13407822">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/template/positionInfo.html">
+    <entry file="file://$PROJECT_DIR$/src/script/directive/positionClass.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.46927375">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.html">
+    <entry file="file://$PROJECT_DIR$/src/view/template/positionClass.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.6923075">
-          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/script/config/dict.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/template/tab.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.3076923">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/template/sheet.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.1538463">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/search.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.8461537">
-          <caret line="5" column="26" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/script/controller/mainCtrl.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10055866">
-          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/script/controller/postCtrl.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30167598">
-          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        <state vertical-scroll-proportion="0.14018692">
+          <caret line="4" column="54" selection-start-line="4" selection-start-column="54" selection-end-line="4" selection-end-column="54" />
           <folding />
         </state>
       </provider>
@@ -650,34 +734,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/script/service/cookie.js">
+    <entry file="file://$PROJECT_DIR$/src/view/company.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/script/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.033519555">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/template/positionClass.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31542057">
-          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/script/directive/headBar.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23463687">
-          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.07009346">
+          <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
           <folding />
         </state>
       </provider>
@@ -685,20 +745,68 @@
     <entry file="file://$PROJECT_DIR$/src/script/directive/head.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/script/directive/sheet.js">
+    <entry file="file://$PROJECT_DIR$/src/script/controller/mainCtrl.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10055866">
-          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/company.html">
+    <entry file="file://$PROJECT_DIR$/src/script/config/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.06703911">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/template/headBar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10625738">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/script/directive/headBar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23702031">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/script/controller/registerCtrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.06772009">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/template/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.035419125">
+          <caret line="1" column="52" selection-start-line="1" selection-start-column="52" selection-end-line="1" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/data/handle.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -706,114 +814,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/login.html">
+    <entry file="file://$PROJECT_DIR$/src/view/template/positionInfo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17523365">
-          <caret line="5" column="14" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state vertical-scroll-proportion="-3.8461537">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/register.html">
+    <entry file="file://$PROJECT_DIR$/build/view/template/positionInfo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14018692">
-          <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/script/directive/companyInfo.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.17709564">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/script/directive/positionInfo.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.23702031">
+          <caret line="13" column="53" selection-start-line="13" selection-start-column="53" selection-end-line="13" selection-end-column="53" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/view/position.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.07009346">
-          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/main.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.07009346">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/script/directive/positionList.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.26815644">
-          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/script/directive/foot.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/script/directive/positionClass.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20111732">
-          <caret line="6" column="60" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/template/positionList.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.03504673">
-          <caret line="1" column="99" selection-start-line="1" selection-start-column="78" selection-end-line="1" selection-end-column="99" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/script/filter/filterByObj.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/script/controller/search.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="45" column="36" selection-start-line="45" selection-start-column="36" selection-end-line="45" selection-end-column="36" />
+        <state vertical-scroll-proportion="-2.3076923">
+          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/data/position.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.42502952">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/script/controller/positionCtrl.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5698324">
-          <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+        <state vertical-scroll-proportion="0.6275395">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
           <folding />
         </state>
       </provider>

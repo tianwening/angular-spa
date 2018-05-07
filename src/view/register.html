@@ -2,14 +2,14 @@
     <form class="d-b ta-c" name="form">
         <div class="form-line ta-l p-r">
             <span class="icon account va-t d-ib"></span>
-            <input ng-model="user.name" validator="phone" type="text" placeholder="输入手机号">
+            <input name="phone" ng-model="user.phone" validator="required,phone" type="text" placeholder="输入手机号">
         </div>
         <div class="form-line ta-l p-r">
             <span class="icon lock va-t d-ib"></span>
-            <input ng-model="user.password" validator="password" type="password" placeholder="设置6位以上的密码">
+            <input name="password" ng-model="user.password" validator="required,password" type="password" placeholder="设置6位以上的密码">
         </div>
-        <div class="message-wrap">
-            <input ng-model="code" class="message-box" placeholder="短信验证码" type="text"/>
+        <div class="message-wrap p-r">
+            <input validator="required" ng-model="code" class="message-box" placeholder="短信验证码" type="text"/>
             <span ng-click="time?1==1:send()" class="message {{time?'disabled':''}}" ng-bind="time?time:'发送短信'"></span>
         </div>
         <button class="d-b login-btn" ui-sref="login">登录</button>

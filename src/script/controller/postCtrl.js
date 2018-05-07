@@ -1,5 +1,5 @@
 'use strict';
-angular.module('app').controller('postCtrl',['$scope',function($scope){
+angular.module('app').controller('postCtrl',['$http','$scope',function($http,$scope){
     $scope.tabList = [
         {
             id: 'all',
@@ -13,6 +13,26 @@ angular.module('app').controller('postCtrl',['$scope',function($scope){
             id: 'fail',
             name: '不合适'
         }
-    ]
+    ];
+    $http.get('data/myPost.json').then(function(resp){
+        $scope.positionList = resp.data;
+    });
+    $scope.filterObj = {};
+    $scope.tClick = function(id, name) {
+        //console.log(id,name);
+        switch (id) {
+            case 'all':
+                delete $scope.filterObj.state;
+                break;
+            case 'pass':
+                $scope.filterObj.state = '1';
+                break;
+            case 'fail':
+                $scope.filterObj.state = '-1';
+                break;
+            default:
+
+        }
+    }
 }]);
 

@@ -5,9 +5,9 @@
             $cookies.put(key,value);
         };
         this.get = function(key){
-            $cookies.get(key);
+            return $cookies.get(key);
         };
         this.remove = function(key){
             $cookies.remove(key);
-        }
+        };
     }])
